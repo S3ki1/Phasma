@@ -1,0 +1,159 @@
+body{
+    background-image:url("../images/image1_0.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #222;
+    background-position: center bottom;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.vse {
+    display: flex; 
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 10px;;
+}
+.stred {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    
+}
+.stred img{
+    order: -1;
+    width: 100%;
+    margin-top: -150px;
+    filter: drop-shadow(0 0 20px white);
+}
+.stred .privitani{
+    background-color: rgb(31, 31, 31);
+    box-shadow: 0 0 50px white;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    width: 50%;
+    text-align: center;
+    align-items: center;
+    margin-top: -100px;
+
+}
+.stred .privitani h1 {
+    font-family: "bohemian typewriter", sans-serif;
+    filter: drop-shadow(0 0 20px white);
+}
+.stred .privitani p {
+    font-family: "bohemian typewriter", sans-serif;
+    filter: drop-shadow(0 0 20px white);
+
+}
+.vse .bok {
+    width: 20%;
+}
+.bok {
+    display: flex;
+    flex-direction:column ;
+    padding: 10px;
+    margin: 10px;
+    color: black;
+    font-family: "bohemian typewriter", sans-serif;
+    width: 90%;
+    align-items: center;
+
+}
+.duchove {
+    background-color: rgb(31, 31, 31);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    filter: drop-shadow(0 0 5px white);
+    align-items: center;
+    height: 150px;
+}
+.duchove h1 {
+    order: 1;
+    margin-top: 0px;
+    filter: drop-shadow(0 0 5px white)
+}
+.duchove img {
+    order: 2;
+    width: 20%;
+    margin-top: 0px;
+    filter: drop-shadow(0 0 5px white)
+}
+.maps {
+    background-color: rgb(31, 31, 31);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    filter: drop-shadow(0 0 5px white);
+    align-items: center;
+    height: 150px;
+}
+.maps img{
+    order: 2;
+    width: 20%;
+    margin-top: 0px;
+    filter: drop-shadow(0 0 5px white)
+}
+.maps h1 {
+    order: 1;
+    margin-top: 0px;
+    filter: drop-shadow(0 0 5px white)
+}
+.cursed {
+    background-color: rgb(31, 31, 31);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    filter: drop-shadow(0 0 5px white);
+    align-items: center;
+    height: 150px;
+}
+.cursed img{
+    order: 2;
+    width: 20%;
+    margin-top: 0px;
+    filter: drop-shadow(0 0 5px white)
+}
+.cursed h1 {
+    order: 1;
+    margin-top: 0px;
+    filter: drop-shadow(0 0 5px white)
+}
+@font-face {
+    font-family: "bohemian typewriter";
+    src: url("../fonts/Bohemian Typewriter.ttf"); format: ("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+.bok a {
+    text-decoration: none;
+    color: inherit;
+    display: inline-block;
+}
+footer {
+    color: rgb(80, 80, 80);
+    display: flex;
+    margin: 0;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    align-items: center;    
+    height: 500px;
+    font-family: "bohemian typewriter", sans-serif;
+
+}
