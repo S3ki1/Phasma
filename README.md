@@ -1,1 +1,41 @@
 # Phasma
+
+Vítejte v neoficiální encyklopedii a průvodci pro hru **Phasmophobia**! Tato webová stránka slouží jako kompletní tahák (cheat sheet) a pomocník pro začínající i pokročilé lovce duchů. Najdete zde všechny potřebné informace pro úspěšné přežití kontraktu a správné určení typu ducha.
+
+## 🚀 Funkce webu
+
+Stránka je rozdělena do několika přehledných sekcí:
+
+### 👤 Duchové
+* Kompletní seznam všech typů duchů vyskytujících se ve hře.
+* Podrobný popis jejich chování, silných a slabých stránek.
+* Specifické charakteristiky (např. rychlost, prahy duševního zdraví/sanity pro lov).
+
+### 🛠️ Vybavení a předměty
+* Přehled veškerého startovního i dokoupitelného vybavení (EMF, UV lampa, teploměr, atd.).
+* Popis funkčnosti jednotlivých tierů (Tier I, Tier II, Tier III) a jak je efektivně používat.
+
+### 🔮 Prokleté předměty (Cursed Possessions)
+* Seznam všech prokletých předmětů (Hrací skříňka, Ouija tabulka, Tarotové karty, atd.).
+* Rizika a výhody spojené s jejich aktivací a kde je na mapách hledat.
+
+### 🗺️ Mapy
+* Seznam herních lokací (od malých domů jako Tanglewood po velké mapy jako Sunny Meadows).
+* *[Volitelné]* Interaktivní mapy s vyznačenými pozicemi pojistek (breakerů) a prokletých předmětů.
+
+---
+
+## 🛠️ Použité technologie
+
+Projekt byl vytvořen pomocí:
+* **HTML5** – struktura webu
+* **CSS3 / TailwindCSS** – moderní a responzivní design (vhodný i pro mobily)
+* **JavaScript** – interaktivní prvky (např. filtrování duchů podle důkazů)
+
+---
+
+## 💻 Jak web spustit lokálně
+
+1. Klonujte tento repozitář:
+   ```bash
+   git clone [https://github.com/vytvor-si-odkaz/phasmophobia-guide.git](https://github.com/vytvor-si-odkaz/phasmophobia-guide.git)
