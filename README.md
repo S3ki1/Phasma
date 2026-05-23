@@ -21,7 +21,7 @@ Stránka je rozdělena do několika přehledných sekcí:
 
 ### Mapy
 * Seznam herních lokací (od malých domů jako Tanglewood po velké mapy jako Sunny Meadows).
-* *[Volitelné]* Interaktivní mapy s vyznačenými pozicemi pojistek (breakerů) a prokletých předmětů.
+* Interaktivní mapy s vyznačenými pozicemi pojistek (breakerů) a prokletých předmětů.
 
 ---
 
