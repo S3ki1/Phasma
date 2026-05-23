@@ -24,7 +24,6 @@ Stránka je rozdělena do několika přehledných sekcí:
 * Interaktivní mapy s vyznačenými pozicemi pojistek (breakerů) a prokletých předmětů.
 
 ## Použité technologie
-
 Projekt byl vytvořen pomocí:
 * **HTML** – struktura webu
 * **CSS** – moderní a strašidelný design
