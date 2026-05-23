@@ -15,7 +15,7 @@ Stránka je rozdělena do několika přehledných sekcí:
 * Přehled veškerého startovního i dokoupitelného vybavení (EMF, UV lampa, teploměr, atd.).
 * Popis funkčnosti jednotlivých tierů (Tier I, Tier II, Tier III) a jak je efektivně používat.
 
-### Prokleté předměty (Cursed Possessions)
+### Prokleté předměty
 * Seznam všech prokletých předmětů (Hrací skříňka, Ouija tabulka, Tarotové karty, atd.).
 * Rizika a výhody spojené s jejich aktivací a kde je na mapách hledat.
 
