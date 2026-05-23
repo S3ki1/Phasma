@@ -23,7 +23,7 @@ Stránka je rozdělena do několika přehledných sekcí:
 * Seznam herních lokací (od malých domů jako Tanglewood po velké mapy jako Sunny Meadows).
 * Interaktivní mapy s vyznačenými pozicemi pojistek (breakerů) a prokletých předmětů.
 
-## Použité technologie
+### Použité technologie
 * **HTML** – struktura webu
 * **CSS** – moderní a strašidelný design
 * **JavaScript** – interaktivní prvky (např. filtrování duchů podle důkazů)
