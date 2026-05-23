@@ -28,11 +28,6 @@ Stránka je rozdělena do několika přehledných sekcí:
 ## Použité technologie
 
 Projekt byl vytvořen pomocí:
-* **HTML5** – struktura webu
-* **CSS3 / TailwindCSS** – moderní a responzivní design (vhodný i pro mobily)
+* **HTML** – struktura webu
+* **CSS** – moderní a strašidelný design
 * **JavaScript** – interaktivní prvky (např. filtrování duchů podle důkazů)
-
----
-
-   ```bash
-   git clone [https://github.com/vytvor-si-odkaz/phasmophobia-guide.git](https://github.com/vytvor-si-odkaz/phasmophobia-guide.git)
